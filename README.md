@@ -32,6 +32,6 @@
 | [Create Virtual Environment](https://github.com/potatoscript/python/wiki/Create-Virtual-Environment)|source virt/Scripts/activate |
 | [Handling with CSV](https://github.com/potatoscript/python/wiki/Writing-CSV)|pip install openpyxl |
 | [Handling with Excel Data](https://github.com/potatoscript/python/wiki/Excel-Data)| Read and Write to Excel|
-
+| [Upload STDF to PostgreSQL](https://github.com/potatoscript/python/wiki/STDF-to-PostgreSQL)| Run Java to convert STDF to CSV then PostgreSQL|
 
 
