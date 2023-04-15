@@ -33,5 +33,7 @@
 | [Handling with CSV](https://github.com/potatoscript/python/wiki/Writing-CSV)|pip install openpyxl |
 | [Handling with Excel Data](https://github.com/potatoscript/python/wiki/Excel-Data)| Read and Write to Excel|
 | [Upload STDF to PostgreSQL](https://github.com/potatoscript/python/wiki/STDF-to-PostgreSQL)| Run Java to convert STDF to CSV then PostgreSQL|
+| [Create Library on PYPI](https://github.com/potatoscript/python/wiki/Create-Library-PYPI)| |
+
 
 
