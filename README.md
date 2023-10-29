@@ -36,6 +36,7 @@
 | [Create Library on PYPI](https://github.com/potatoscript/python/wiki/Create-Library-PYPI)|Creating a Python library |
 | [Create GUI](https://github.com/potatoscript/python/wiki/Create-GUI)|using tkinter |
 | [My Template](https://github.com/potatoscript/python/wiki/Template)|uploaded to PYPI |
+| [sharePoint-check-upload](https://github.com/potatoscript/python/wiki/SharePoint-Check-Upload)| |
 
 
 
