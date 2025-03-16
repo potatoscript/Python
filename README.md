@@ -1,4 +1,20 @@
+# POTATO_Python
+
+* [Projects](#python_project)
+* [Tutoial](#python_tutorial)
+---
+
+# Python Project:
+[menu](#potato_python)
+
+| Title    | Remark  |
+| --------------| -----|
+| [Python Library](https://github.com/potatoscript/potatopython)|  |
+
+
 # Python Tutorial:  
+[menu](#potato_python)
+
 | Title    | Remark/code  |  
 | -------------| -----|  
 | [Installation](https://github.com/potatoscript/python/wiki/Installation) | Set up Python and configure the development environment |  
