@@ -52,7 +52,7 @@ The following tutorials cover a wide range of Python topics, from basic syntax t
 ---
 
 ### Advanced Tutorials
-[menu](#potato_python)
+[menu](#potatopython)
 
 If you're looking for more advanced concepts, here are a few additional tutorials:
 
@@ -78,6 +78,6 @@ If you're looking for more advanced concepts, here are a few additional tutorial
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-[menu](#potato_python)
+[menu](#potatopython)
 
 ---
