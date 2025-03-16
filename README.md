@@ -1,6 +1,6 @@
-# **POTATO_Python 🍠** 
+# **PotatoPython 🍠** 
 
-Welcome to the official **POTATO_Python** repository! Here, you'll find useful Python Projects and Tutorials to help enhance your development experience. 
+Welcome to the official **PotatoPython** repository! Here, you'll find useful Python Projects and Tutorials to help enhance your development experience. 
 
 ## Contents
 
@@ -9,8 +9,8 @@ Welcome to the official **POTATO_Python** repository! Here, you'll find useful P
 
 ---
 
-## Python Project
-[menu](#potato_python)
+## Python_Project
+[menu](#potatopython)
 
 This section highlights our core Python project: the **`potato.py`** library. It provides essential utilities to streamline common tasks like database connectivity, email notifications, and file management.
 
@@ -21,7 +21,7 @@ This section highlights our core Python project: the **`potato.py`** library. It
 ---
 
 ## Python_Tutorials
-[menu](#potato_python)
+[menu](#potatopython)
 
 The following tutorials cover a wide range of Python topics, from basic syntax to more advanced programming concepts.
 
