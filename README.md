@@ -9,8 +9,8 @@ Welcome to the official **POTATO_Python** repository! Here, you'll find useful P
 
 ---
 
-## Python Project
-
+## Python_Project
+[menu](#potato_python)
 ### [Potato.py Library](https://github.com/potatoscript/potatopython)
 
 A Python utility library offering a collection of functions for common tasks such as database connectivity, email notifications, file operations, and much more. This library is designed to help streamline your development workflow.
@@ -22,7 +22,8 @@ A Python utility library offering a collection of functions for common tasks suc
 
 ---
 
-## Python Tutorials
+## Python_Tutorials
+[menu](#potato_python)
 
 The following tutorials cover a wide range of Python topics, from basic syntax to more advanced programming concepts.
 
@@ -53,7 +54,7 @@ The following tutorials cover a wide range of Python topics, from basic syntax t
 ---
 
 ### Advanced Tutorials
-
+[menu](#potato_python)
 If you're looking for more advanced concepts, here are a few additional tutorials:
 
 | Topic | Description |
