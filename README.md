@@ -4,15 +4,15 @@
 * [Tutoial](#python_tutorial)
 ---
 
-# Python Project:
+# Python_Project
 [menu](#potato_python)
 
 | Title    | Remark  |
 | --------------| -----|
-| [Python Library](https://github.com/potatoscript/potatopython)|  |
+| [Python Library (potato.py) ](https://github.com/potatoscript/potatopython)|The potato.py library provides a set of utility functions for common tasks related to database connectivity, email notifications, file operations, and more.   |
 
 
-# Python Tutorial:  
+# Python_Tutorial  
 [menu](#potato_python)
 
 | Title    | Remark/code  |  
