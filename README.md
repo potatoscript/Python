@@ -1,4 +1,4 @@
-# **PotatoPython 🍠** 
+# PotatoPython 
 
 Welcome to the official **PotatoPython** repository! Here, you'll find useful Python Projects and Tutorials to help enhance your development experience. 
 
