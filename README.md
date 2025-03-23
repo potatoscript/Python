@@ -18,6 +18,7 @@ This section highlights our core Python project: the **`potato.py`** library. It
 | **Project**                      | **Description**                                                                                                                                                        |
 |-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **[potato.py](https://github.com/potatoscript/potatopy)** | The **potato.py** library offers a collection of utility functions to simplify working with databases, emails, files, and more. This tool is ideal for Python developers looking for efficiency. |
+| **[JPEG Renamer](https://github.com/potatoscript/Potatopython-GUI)** | The **JPEG Renamer** application automates the process of renaming and organizing JPEG files. It features a user-friendly interface, file management, and detailed logs. |
 
 ---
 
