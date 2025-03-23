@@ -81,3 +81,58 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [menu](#potatopython)
 
 ---
+
+## Upload library to PIPY
+
+### **Step 1: Update Version Number**
+#### **If using `setup.py`**
+Edit `setup.py` and increment the `version` field:
+```python
+from setuptools import setup, find_packages
+
+setup(
+    name="my_library",  
+    version="0.1.1",  # Increase the version number
+    packages=find_packages(),
+)
+```
+If the previous version was `0.1.0`, change it to `0.1.1`, `0.2.0`, etc.
+
+#### **If using `pyproject.toml` (PEP 517/518)**
+Edit `pyproject.toml` and update the version:
+```toml
+[tool.setuptools]
+version = "0.1.1"  # Increment version
+```
+
+---
+
+### **Step 2: Delete Old Distribution Files**
+Remove old package files from the `dist/` folder:
+```bash
+rm -rf dist/ build/ *.egg-info
+```
+
+---
+
+### **Step 3: Rebuild the Package**
+Rebuild the package with the new version:
+
+For `setup.py`:
+```bash
+python setup.py sdist bdist_wheel
+```
+
+For `pyproject.toml` (if using PEP 517/518):
+```bash
+python -m build
+```
+
+---
+
+### **Step 4: Re-upload the New Version**
+Now upload again using Twine:
+```bash
+twine upload dist/*
+```
+
