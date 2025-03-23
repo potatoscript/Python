@@ -6,7 +6,8 @@ Welcome to the official **PotatoPython** repository! Here, you'll find useful Py
 
 - [Python Project](#python_project)
 - [Tutorials](#python_tutorials)
-
+- [Library](#python_library)
+ 
 ---
 
 ## Python_Project
@@ -81,6 +82,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [menu](#potatopython)
 
 ---
+
+## Python_Library
+[menu](#potatopython)
 
 ## Upload library to PIPY
 
