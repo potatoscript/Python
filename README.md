@@ -17,7 +17,7 @@ This section highlights our core Python project: the **`potato.py`** library. It
 
 | **Project**                      | **Description**                                                                                                                                                        |
 |-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **[potato.py](https://github.com/potatoscript/potatopython)** | The **potato.py** library offers a collection of utility functions to simplify working with databases, emails, files, and more. This tool is ideal for Python developers looking for efficiency. |
+| **[potato.py](https://github.com/potatoscript/potatopy)** | The **potato.py** library offers a collection of utility functions to simplify working with databases, emails, files, and more. This tool is ideal for Python developers looking for efficiency. |
 
 ---
 
