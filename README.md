@@ -50,7 +50,7 @@ The following tutorials cover a wide range of Python topics, from basic syntax t
 | [Machine Learning](https://github.com/potatoscript/python/wiki/Machine-Learning) | Learn about machine learning with `scikit-learn`, `TensorFlow`, and more |
 | [Data Analysis](https://github.com/potatoscript/python/wiki/Data-Analysis) | Explore data analysis with `pandas`, `numpy`, and `matplotlib` |
 | [Game Development](https://github.com/potatoscript/python/wiki/Game-Development) | Develop games using the `pygame` library |
-
+| [Python Virtual Environment](https://github.com/potatoscript/python/wiki/Python-Virtual-Environment) | cover creating, activating, deactivating, checking, and managing packages in a virtual environment. |
 ---
 
 ### Advanced Tutorials
